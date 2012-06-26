@@ -6,8 +6,9 @@ Binary distribution of the libimobiledevice library for Mac OS X http://www.libi
 This library allows you to communicate with an iPad or iPhone using command-line tools. Jailbreak is NOT required.
 
 NOTE: This is not an official release. I had a lot of trouble compiling this library for Mac OS X 10.7.4, but found this guy had 
-http://blog.boceto.fr/2012/05/05/libimobiledevice-for-macosx/.
+http://blog.boceto.fr/2012/05/05/libimobiledevice-for-macosx/. 
 This is just a tidied-up version of his release. Entirely unofficial.
+Fink does manage this package for Mac, but a 10.7 release is not available.
 
 Installation guide
 ------------------
