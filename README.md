@@ -15,7 +15,7 @@ Add line at the end that reads:
  export DYLD_LIBRARY_PATH=/your/path/here/imobiledevice-macosx/:$DYLD_LIBRARY_PATH
 
 Add line that reads:
- PATH=${PATH}:/your/path/here/imobiledevice-macosx/bin
+ PATH=${PATH}:/your/path/here/imobiledevice-macosx/
 
 - source ~/.bash_profile
 
