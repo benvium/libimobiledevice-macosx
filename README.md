@@ -22,11 +22,14 @@ Set up paths required in Terminal.app
  - nano ~/.bash_profile
 
 Add line at the end that reads:
- export DYLD_LIBRARY_PATH=/your/path/here/imobiledevice-macosx/:$DYLD_LIBRARY_PATH
+
+    export DYLD_LIBRARY_PATH=/your/path/here/imobiledevice-macosx/:$DYLD_LIBRARY_PATH
 
 Add line that reads:
- PATH=${PATH}:/your/path/here/imobiledevice-macosx/
 
+    PATH=${PATH}:/your/path/here/imobiledevice-macosx/
+
+Return to the terminal and type
 - source ~/.bash_profile
 
 
@@ -38,7 +41,7 @@ Connect an iPhone/iPad
 View device log in realtime. Very handy for debugging Phonegap apps - shows WebView output and native messages
  - idevicesyslog
 
-Take screenshot. Puts a TIFF file in the current directory.
+Take screenshot. Puts a TIFF file in the current directory. Note that this no longer works on iOS6.
  - idevicescreenshot
 
 Install an IPA onto your device
