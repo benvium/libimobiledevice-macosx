@@ -10,6 +10,9 @@ http://blog.boceto.fr/2012/05/05/libimobiledevice-for-macosx/.
 This is just a tidied-up version of his release. Entirely unofficial.
 Fink does manage this package for Mac, but a 10.7 release is not available.
 
+Thank you to eAi (https://github.com/eAi/bits-and-pieces) for patching the binaries so that idevicescreenshot now works on iOS 6. 
+
+
 Installation guide
 ------------------
 
