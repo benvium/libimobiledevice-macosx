@@ -44,7 +44,7 @@ Connect an iPhone/iPad
 View device log in realtime. Very handy for debugging Phonegap apps - shows WebView output and native messages
  - idevicesyslog
 
-Take screenshot. Puts a TIFF file in the current directory. Note that this no longer works on iOS6.
+Take screenshot. Puts a TIFF file in the current directory.
  - idevicescreenshot
 
 Install an IPA onto your device
